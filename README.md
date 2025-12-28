@@ -64,7 +64,10 @@ Pivot tables, charts, and slicers are used to allow dynamic filtering and quick 
 - Dashboard Design & Visualization  
 
 ---
-
+📂 Dataset & Files:
+- 📊 Excel Dashboard: [Download Here][(https://drive.google.com/your-link)](https://drive.google.com/file/d/1RPl0p1vmSjoAfbj9gYiCheqDgs0YVRbn/view?usp=sharing)
+- 📄 Project Presentation: [View PPT][(https://drive.google.com/your-link)
+](https://docs.google.com/presentation/d/1_YPGvQNp2dSh1pGGogDbaaqx5frqntKN/edit?usp=sharing&ouid=113938030751782622667&rtpof=true&sd=true)
 ## 📝 Conclusion
 
 This project demonstrates how **Excel-based analytics** can deliver actionable insights in IT operations.  
@@ -74,11 +77,4 @@ By combining structured data analysis with visual dashboards, organizations can 
 
 ## 🌐 Author
 
-**Rajat Kumar**  
-📊 Aspiring Data Analyst | Data Science Trainee @ Newton School  
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/rajat-b115a5355/  
-- 📧 Email: your-email@example.com  
-- 💻 GitHub: https://github.com/Rajat00612  
-
-⭐ If you found this project useful, consider starring the repository!
+**Rajat Kumar**  ⭐ If you found this project useful, consider starring the repository!
